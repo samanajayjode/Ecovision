@@ -1,0 +1,10 @@
+{
+  "name": "EcoVision project",
+  "description": "AI-powered waste classifier and recycling intelligence platform detecting plastics, reusables, organic vegetables, and materials with carbon impact metrics and upcycling guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
